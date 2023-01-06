@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './index.css'
+import './styles/dropdown.css'
 
 /**
  * Component for displaying a scrolling menu
