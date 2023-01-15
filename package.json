@@ -1,6 +1,6 @@
 {
   "name": "dropdown-input-react",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "private": false,
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
@@ -10,7 +10,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "core-js":"^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -43,5 +44,6 @@
   },
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "files": ["dist"]
+  "files": ["dist"],
+  "author": "Lucas GERARD"
 }
