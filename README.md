@@ -3,7 +3,10 @@
 This is a simple react component for a dropdown menu.
 
 
-![](https://cloud.githubusercontent.com/assets/1412392/5339491/c40de124-7ee1-11e4-9f07-9276e2545f27.png)
+![](https://github.com/Raisery/dropdown-input-react/blob/main/assets/dropdown-close.png?raw=true)
+
+![](https://github.com/Raisery/dropdown-input-react/blob/main/assets/dropdown-open.png?raw=true)
+
 
 # Installation
 
